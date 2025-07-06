@@ -1,3 +1,2 @@
-cd ~
-git clone https://github.com/justksu/vpn-3x-ui-setup.git
-cd vpn-3x-ui-setup
+netstat -lntup
+bash <(curl -Ls https://raw.githubusercontent.com/MHSanaei/3x-ui/refs/tags/v2.5.8/install.sh)
